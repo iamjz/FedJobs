@@ -13,3 +13,4 @@ Text analytics on federal job postings. In this repo, you'll find:
 ## Work in progress
 
 - Analysis of job postings in different demographics
+- Flask API to do this in realtime
