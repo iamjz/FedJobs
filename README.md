@@ -10,7 +10,3 @@ Text analytics on federal job postings. In this repo, you'll find:
 
 - List of Resumes (resumes): This folder contains my input resume. It's an old outdated resume so if you want to creep, just check out my linkedin profile instead: https://www.linkedin.com/in/zhaojacky/
 
-## Work in progress
-
-- Analysis of job postings in different demographics
-- Flask API to do this in realtime
